@@ -1,0 +1,13 @@
+#nav{
+    width: 100% auto;
+	padding-top: 15px;
+	border-bottom: 10px solid white;
+    border-color: white;
+	background-color:#292929;
+	text-align: center;
+	color:white;
+}
+
+h1 {
+    color:steelblue;
+}
