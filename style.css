@@ -1,11 +1,8 @@
 div.ex1{
-	width: auto;
-	padding-top: 10px;
-	border-bottom: 10px solid;
-	border-color:cornflowerblue;
-	background-color:lightcyan;
+	width: 100%;
+	padding-top: 20px;
 	text-align: left;
-	color:white;
+	color:black;
 }
 
 h2 {
