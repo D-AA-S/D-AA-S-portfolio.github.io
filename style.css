@@ -3,6 +3,8 @@ div.ex1{
 	padding-top: 20px;
 	text-align: center;
 	color:black;
+	display: flex;
+	justify-content: space-between;
 }
 
 h2 {
