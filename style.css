@@ -1,6 +1,5 @@
 div.ex1{
 	width: auto;
-	padding-right: 10px;
 	padding-top: 10px;
 	border-bottom: 10px solid;
 	border-color:cornflowerblue;
@@ -10,5 +9,6 @@ div.ex1{
 }
 
 h2 {
-    color:steelblue;
+	padding-left: 10px solid;
+    color:royalblue;
 }
