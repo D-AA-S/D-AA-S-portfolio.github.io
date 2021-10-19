@@ -1,5 +1,6 @@
 div.ex1{
 	width: 1000px;
+	align-self: center;
 	padding-top: 20px;
 	text-align: center;
 	color:black;
